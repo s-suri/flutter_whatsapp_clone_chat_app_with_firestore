@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "664479073857",
+    "firebase_url": "https://icfautech.firebaseio.com",
+    "project_id": "icfautech",
+    "storage_bucket": "icfautech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664479073857:android:54a5d3dbf8f99eac2268c0",
+        "android_client_info": {
+          "package_name": "com.example.surichatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664479073857-qptt84mjt7rsvo4gjf2emeulh48jns00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgCY1f_1da79dY4620IEg_uwQwDWcpEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664479073857-qptt84mjt7rsvo4gjf2emeulh48jns00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664479073857-s0fc3o9pfluegvqajvge3amhehid2jjs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterchatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
